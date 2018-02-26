@@ -1,0 +1,5 @@
+Always 'git pull' first!
+ 
+1. git add filename.txt
+2. git commit -m "added filename.txt"
+3. git push origin master
